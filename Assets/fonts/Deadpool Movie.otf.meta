@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d0b4ab132e58c2d44ab41f2d2a1b587b
+timeCreated: 1521984064
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Deadpool Movie
+  fontNames:
+  - Deadpool Movie
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
